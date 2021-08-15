@@ -1,0 +1,30 @@
+C:\Users\Lenovo z50\source\repos\social blade\bin\Debug\social blade.exe.config
+C:\Users\Lenovo z50\source\repos\social blade\bin\Debug\social blade.exe
+C:\Users\Lenovo z50\source\repos\social blade\bin\Debug\social blade.pdb
+C:\Users\Lenovo z50\source\repos\social blade\bin\Debug\social blade.xml
+C:\Users\Lenovo z50\source\repos\social blade\bin\Debug\WebDriver.dll
+C:\Users\Lenovo z50\source\repos\social blade\bin\Debug\WebDriver.xml
+C:\Users\Lenovo z50\source\repos\social blade\obj\Debug\social blade.vbprojAssemblyReference.cache
+C:\Users\Lenovo z50\source\repos\social blade\obj\Debug\social_blade.Form1.resources
+C:\Users\Lenovo z50\source\repos\social blade\obj\Debug\social_blade.Resources.resources
+C:\Users\Lenovo z50\source\repos\social blade\obj\Debug\social blade.vbproj.GenerateResource.cache
+C:\Users\Lenovo z50\source\repos\social blade\obj\Debug\social blade.vbproj.CoreCompileInputs.cache
+C:\Users\Lenovo z50\source\repos\social blade\obj\Debug\social blade.vbproj.CopyComplete
+C:\Users\Lenovo z50\source\repos\social blade\obj\Debug\social blade.exe
+C:\Users\Lenovo z50\source\repos\social blade\obj\Debug\social blade.xml
+C:\Users\Lenovo z50\source\repos\social blade\obj\Debug\social blade.pdb
+C:\Users\TOSHIBA\Desktop\Software and Files\Expert 23\Social Blade\social blade\bin\Debug\social blade.exe.config
+C:\Users\TOSHIBA\Desktop\Software and Files\Expert 23\Social Blade\social blade\bin\Debug\social blade.exe
+C:\Users\TOSHIBA\Desktop\Software and Files\Expert 23\Social Blade\social blade\bin\Debug\social blade.pdb
+C:\Users\TOSHIBA\Desktop\Software and Files\Expert 23\Social Blade\social blade\bin\Debug\social blade.xml
+C:\Users\TOSHIBA\Desktop\Software and Files\Expert 23\Social Blade\social blade\bin\Debug\WebDriver.dll
+C:\Users\TOSHIBA\Desktop\Software and Files\Expert 23\Social Blade\social blade\bin\Debug\WebDriver.xml
+C:\Users\TOSHIBA\Desktop\Software and Files\Expert 23\Social Blade\social blade\obj\Debug\social blade.vbprojAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\Software and Files\Expert 23\Social Blade\social blade\obj\Debug\social_blade.Form1.resources
+C:\Users\TOSHIBA\Desktop\Software and Files\Expert 23\Social Blade\social blade\obj\Debug\social_blade.Resources.resources
+C:\Users\TOSHIBA\Desktop\Software and Files\Expert 23\Social Blade\social blade\obj\Debug\social blade.vbproj.GenerateResource.cache
+C:\Users\TOSHIBA\Desktop\Software and Files\Expert 23\Social Blade\social blade\obj\Debug\social blade.vbproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Desktop\Software and Files\Expert 23\Social Blade\social blade\obj\Debug\social blade.vbproj.CopyComplete
+C:\Users\TOSHIBA\Desktop\Software and Files\Expert 23\Social Blade\social blade\obj\Debug\social blade.exe
+C:\Users\TOSHIBA\Desktop\Software and Files\Expert 23\Social Blade\social blade\obj\Debug\social blade.xml
+C:\Users\TOSHIBA\Desktop\Software and Files\Expert 23\Social Blade\social blade\obj\Debug\social blade.pdb
